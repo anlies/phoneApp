@@ -1,0 +1,53 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/md_pink_500</item>
+
+    </style>
+<style name="My_EditText">
+    <item name="android:colorControlNormal">@color/md_light_blue_800</item>
+    <item name="android:colorControlActivated">@color/md_light_blue_900</item>
+</style>
+    <style name="MyMenuTextStyle" parent="AppTheme">
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="RecyclerStyle" parent="AppTheme">
+        <item name="colorAccent">@color/md_orange_900</item>
+    </style>
+
+    <style name="EditTextStyle" parent="AppTheme">
+        <item name="colorAccent">@color/md_light_blue_A400</item>
+        <item name="android:statusBarColor">@color/md_light_blue_A400</item>
+    </style>
+
+    <style name="statusBarStyle" parent="AppTheme">
+        <item name="android:statusBarColor">@color/md_blue_600</item>
+    </style>
+
+
+    <style name="nobar" parent="AppTheme">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+
+    <style name="tie_nav" parent="AppTheme">
+        <item name="android:statusBarColor">@color/md_grey_400</item>
+        <item name="colorAccent">@color/md_light_blue_A400</item>
+    </style>
+
+    <style name="mubiao_xiangqing" parent="AppTheme">
+        <item name="android:statusBarColor">#90ee90</item>
+    </style>
+
+    <style name="jifen" parent="AppTheme">
+        <item name="android:statusBarColor">#007aff</item>
+    </style>
+
+    <style name="FruitActivityTheme" parent="AppTheme">
+    </style>
+
+</resources>

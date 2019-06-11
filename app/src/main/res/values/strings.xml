@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">战拖儿</string>
+    <string name="register">用户注册</string>
+    <string name="U_register">注册</string>
+    <string name="country">国家/地区</string>
+    <string name="country1">中国</string>
+    <string name="hintPhonenumber">请输入手机号:</string>
+    <string name="receive">获取验证码</string>
+    <string name="iden">验证码已发送至：</string>
+    <string name="Reiden">重新获取验证码</string>
+    <string name="hintinputpass">请输入密码</string>
+    <string name="hintcheckpass">确认密码</string>
+    <string name="checksubmit">确认提交</string>
+    <string name="Rec_Ident">获取验证码</string>
+    <string name="checkchange">确认修改</string>
+    <string name="hintPhonePost">手机号</string>
+    <string name="pass">密码</string>
+    <string name="Login">登录</string>
+    <string name="forgetpass">忘记密码</string>
+    <string name="quickLogin">快速登录</string>
+    <string name="changepass">更改密码</string>
+    <string name="myMoney">积分商城</string>
+    <string name="update">检查更新</string>
+    <string name="update_info">修改资料</string>
+    <string name="quitSystem">退出账号</string>
+
+    <string name="label_cancel">取消</string>
+    <string name="label_ok">确定</string>
+    <string name="permission_title_rationale">权限需求</string>
+    <string name="permission_read_storage_rationale">选择图片时需要读取权限</string>
+    <string name="permission_write_storage_rationale">拍照时需要存储权限</string>
+
+    <string name="action_settings">指纹设置</string>
+    <string name="cancel">取消</string>
+    <string name="use_password">使用密码</string>
+    <string name="sign_in">指纹/密码签到</string>
+    <string name="ok">确定</string>
+    <string name="password">密码</string>
+    <string name="fingerprint_description">指纹操作是本地的，请放心使用</string>
+    <string name="fingerprint_hint">请录入指纹</string>
+    <string name="password_description">请输入密码以继续</string>
+    <string name="fingerprint_not_recognized">指纹识别失败，请重试</string>
+    <string name="fingerprint_success">指纹识别成功</string>
+    <string name="new_fingerprint_enrolled_description">你需要设置一个密码</string>
+    <string name="use_fingerprint_in_future">以后再录入指纹</string>
+    <string name="use_fingerprint_to_authenticate_key">指纹验证密钥</string>
+    <string name="description_fingerprint_icon">指纹识别图标</string>
+
+    <string name="wenzhang">    如果你累了，请告诉自己，再坚持一下下就好，如果想放弃了，请告诉自己，冷静下来，成功就在前方，如果天黑了， 请告诉自己，耐心等待，光明总会来临。这个极速匮乏的社会，太多的人浮躁，冰冷，急于求成，总在东奔西跑，半途而废，所谓天才，百分之1的灵感和百分之99的努力，成功都不是偶然的，昙花一现的绝美，源自数年的隐忍坚持，厚积薄发，才有这惊世的一瞬，我们总说成功不易，却是我们失去了追逐成功的耐心和恒心  水滴石穿，铁杵磨针 ，不都是极致的恒心才伸手碰到的天，年轻人 ，不要总把放弃说的那么云淡风轻，也不要总把新时代挂在嘴边，老祖宗的话是真理它就永远都适用。坚持就是会胜利。</string>
+</resources>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/beijing"
+    android:background="@android:color/holo_green_light"
+    android:padding="16dp">
+    <TextView
+        android:textStyle="bold"
+        android:textColor="#ffffff"
+        android:textSize="20sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="我是文本"
+        android:id="@+id/friend_name"
+        android:layout_alignBottom="@+id/zhuli"
+        android:layout_alignParentStart="true" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="监督："
+        android:textColor="#ffffff"
+        android:textStyle="bold"
+        android:layout_alignBaseline="@+id/textView13"
+        android:layout_alignBottom="@+id/textView13"
+        android:layout_toStartOf="@+id/textView13"
+        android:layout_marginEnd="43dp"
+        android:id="@+id/textView14" />
+    <Button
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        android:background="@drawable/add"
+        android:id="@+id/jiandu"
+        android:layout_marginEnd="10dp"
+        android:gravity="center"
+        android:layout_toStartOf="@+id/textView13" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="助力："
+        android:textColor="#ffffff"
+        android:textStyle="bold"
+        android:layout_alignTop="@+id/friend_name"
+        android:layout_toStartOf="@+id/zhuli"
+        android:id="@+id/textView13" />
+    <Button
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        android:background="@drawable/add"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:id="@+id/zhuli" />
+    <ProgressBar
+        android:id="@+id/progress_bar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:max="100"
+        android:layout_below="@+id/friend_name"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="13dp" />
+</RelativeLayout>

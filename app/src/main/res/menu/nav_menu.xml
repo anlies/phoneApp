@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="none">
+        <item
+            android:id="@+id/update_info"
+            android:icon="@drawable/ic_ziliao"
+            android:title="@string/update_info" />
+        <item
+            android:id="@+id/myMoney"
+            android:icon="@drawable/ic_yue"
+            android:title="@string/myMoney" />
+        <item
+            android:id="@+id/shezhi"
+            android:icon="@drawable/ic_shezhi"
+            android:title="系统设置" />
+        <item
+            android:id="@+id/quitSystem"
+            android:icon="@drawable/nav_location"
+            android:title="@string/quitSystem" />
+    </group>
+</menu>
